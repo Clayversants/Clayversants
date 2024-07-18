@@ -3,9 +3,9 @@
 Sobre mim:
 
 - 🔭 Atualmente trabalho como Data Analyst
-- 💻 Apaixonado por Tecnologia, com Destaque para a Área de Dados
-- 📊 Especialista em Elaboração de Dashboards para Tomada de Decisão
-- 🚀 Motivado a Ajudar Empresas a Resolver seus Problemas com Soluções Baseadas em Dados
+- 💻 Apaixonado por tecnologia, com destaque para a área de Dados
+- 📊 Especialista em elaboração de Dashboards para tomada de decisão
+- 🚀 Motivado a ajudar empresas a resolver seus problemas com soluções baseadas em Dados
 
  ## 
 
