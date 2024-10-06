@@ -28,7 +28,7 @@ Projeto de dashboard devolvido com Power BI para identificar os principais fator
 <br><br>
 ### LUBS Dashboard
 <img align="left" width="500"  src="https://github.com/Clayversants/ProjetoLUBS/blob/main/Imagens/Captura%20de%20tela%202024-10-05%20115359.png?raw=true">
-Este projeto,analisa a performance de vendas e entregas da empresa LUBS entre 2019 e 2022.
+Este projeto analisa a performance de vendas e entregas da empresa LUBS entre 2019 e 2022.
 <br>
  Utilizando métricas como YoY (Year-over-Year), YTD (Year-to-Date), MoM (Month-over-Month) e MTD (Month-to-Date), a análise oferece uma visão clara do crescimento, tendências sazonais e progresso acumulado.
  <br>
