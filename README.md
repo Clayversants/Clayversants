@@ -23,4 +23,17 @@ Projeto de dashboard devolvido com Power BI para identificar os principais fator
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDQ4MGYwYzctYTM5Mi00OWViLWFmYjMtMzNlMjgxNzRjNDE0IiwidCI6ImI5NjJjYTc2LTIwODEtNGQyNy05NDJiLTFmZWE0MmNhN2VlYyJ9" target="_blank">Clique aqui</a> para acessar o dashboard.
 <br>
-<a href="https://github.com/Clayversants/bf.lubsportfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/Clayversants/bf.lubsportfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.>
+
+<br><br>
+### LUBS Dashboard
+<img align="left" width="500"  src="https://github.com/Clayversants/ProjetoLUBS/blob/main/Imagens/Captura%20de%20tela%202024-10-05%20115359.png?raw=true">
+Este projeto,analisa a performance de vendas e entregas da empresa LUBS entre 2019 e 2022.
+<br>
+ Utilizando métricas como YoY (Year-over-Year), YTD (Year-to-Date), MoM (Month-over-Month) e MTD (Month-to-Date), a análise oferece uma visão clara do crescimento, tendências sazonais e progresso acumulado.
+ <br>
+ Com essas métricas, o dashboard facilita a visualização das principais tendências de performance, ajudando a identificar tanto áreas de oportunidade quanto desafios. O projeto permite à LUBS explorar as variações de vendas e entregas ao longo dos últimos anos, oferecendo uma base sólida para futuras decisões e melhorias contínuas.
+ <br>
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiNGVhNzJmMTgtNGRlYi00NWI0LThjOWMtNWQ3MDY5MDk3NTFhIiwidCI6ImI5NjJjYTc2LTIwODEtNGQyNy05NDJiLTFmZWE0MmNhN2VlYyJ9" target="_blank">Clique aqui</a> para acessar o dashboard.
+ <br>
+ <a href="https://github.com/Clayversants/ProjetoLUBS" target="_blank">Clique aqui</a> e acesse o repositório no Github.
