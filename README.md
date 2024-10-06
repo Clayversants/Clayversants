@@ -23,7 +23,7 @@ Projeto de dashboard devolvido com Power BI para identificar os principais fator
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDQ4MGYwYzctYTM5Mi00OWViLWFmYjMtMzNlMjgxNzRjNDE0IiwidCI6ImI5NjJjYTc2LTIwODEtNGQyNy05NDJiLTFmZWE0MmNhN2VlYyJ9" target="_blank">Clique aqui</a> para acessar o dashboard.
 <br>
-<a href="https://github.com/Clayversants/bf.lubsportfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.>
+<a href="https://github.com/Clayversants/bf.lubsportfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
 ### LUBS Dashboard
